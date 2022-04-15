@@ -4,15 +4,15 @@
     border:0;
     margin-top:13px
 }
-.impowerBox .title {
+/* .impowerBox .title {
     display:none
-}
+} */
 .impowerBox .info {
     width:160px
 }
-.status_icon {
+/* .status_icon {
     display:none
-}
+} */
 .impowerBox .status {
     text-align:center
 }
@@ -24,6 +24,7 @@
     margin:0 auto;
     border-radius:4px
 }
-.panelContent .info {
+/* .panelContent .info {
     display:none
 }
+ */
