@@ -1,22 +1,25 @@
-@charset"utf-8";
+@charset "utf-8";
 .impowerBox .qrcode {
-    width:180px;
-    border:0;
-    margin-top:13px
+  width: 180px;
+  border: 0;
+  margin-top: 13px;
 }
 
 .impowerBox .info {
-    width:160px
+  width: 160px;
+}
+.impowerBox .info #wx_default_tip p:nth-child(1) {
+  display: none;
 }
 
 .impowerBox .status {
-    text-align:center
+  text-align: center;
 }
 .wrp_code {
-    width:206px;
-    background-color:#fff;
-    border:1px solid #e5e5e5;
-    height:206px;
-    margin:0 auto;
-    border-radius:4px
+  width: 206px;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  height: 206px;
+  margin: 0 auto;
+  border-radius: 4px;
 }
